@@ -14,7 +14,7 @@
   }
 }
 
-body {
+/* body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
@@ -69,4 +69,4 @@ p {
   color: var(--foreground);
   padding: 6px 24px;
   border-radius: 8px;
-}
+} */
