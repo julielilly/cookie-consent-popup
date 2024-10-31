@@ -1,4 +1,4 @@
-import CookieConsentPopup from "@/components/Cookie-consent-popup";
+import CookieConsentPopup from "@/components/CookieConsentPopup";
 
 export default function Home() {
   return <CookieConsentPopup />;
